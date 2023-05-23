@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Gorilla Tag, a popular virtual reality (VR) game, has taken the gaming community by storm since its release in 2020","photo2":"https://iili.io/Hg6LONa.jpg"},
+  {"desc3":" The immersive experience of swinging through a digital jungle as a gorilla has captivated players worldwide. As technology continues to evolve, so does the gaming landscape","photo3":"https://iili.io/Hg6LNAg.jpg"},
+  {"desc4":" One aspect of this evolution is the emergence of mods, which offer players the ability to customize and enhance their gaming experience. In 2023","photo4":"https://iili.io/Hg6LwHF.jpg"},
+  {"desc5":" Gorilla Tag has witnessed a revolution in the modding community, unlocking a new level of creativity, excitement, and endless possibilities.","photo5":"https://iili.io/Hg6LeDJ.jpg"},
+  {"descd":" In this article, we will delve into the world of Gorilla Tag mods, exploring their impact, features, and potential future developments.","photod":"https://iili.io/Hg6Lvov.webp"}
    ]
  
 }
